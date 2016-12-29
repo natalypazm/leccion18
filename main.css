@@ -1,0 +1,14 @@
+body{
+	background:skyblue;
+}
+.container{
+	border:3px dashed blue;
+	background:#777;
+	margin:200px auto;
+	width:400px;
+	color:white;
+	padding:20px;
+}
+a{
+	color:white;
+}
